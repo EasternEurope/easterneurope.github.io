@@ -3,12 +3,14 @@ layout: default
 title: Main
 ---
 
-Eastern European Research group
----------------------------
 
 <!-- This is image link --->
 
-![](/images/logo300.png)
+![](/images/nato300_orange.png)
+
+Eastern European Research group
+---------------------------
+
 
 Nam suscipit vulputate quam. Integer feugiat massa at nisi bibendum, a tincidunt nisl sollicitudin. Etiam massa eros, interdum at dignissim nec, accumsan vel purus. In odio augue, scelerisque non ultricies in, sollicitudin eget sapien. Duis dictum pharetra augue a ultrices. Aliquam non mattis metus, ornare congue erat. Nulla est tortor, pretium eu dui vitae, dignissim rhoncus nulla. Suspendisse pharetra sed erat porttitor molestie.
 
