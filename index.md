@@ -8,7 +8,7 @@ title: Main
 
 ![](/images/nato300_orange.png)
 
-Eastern European Research group
+Central East Europe Research group
 ---------------------------
 
 
