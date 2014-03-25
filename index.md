@@ -6,7 +6,7 @@ title: Main
 
 <!-- This is image link --->
 
-![](/images/nato300_orange.png)
+![](/images/logo200.png)
 
 Central East Europe Research group
 ---------------------------
