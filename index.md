@@ -5,9 +5,6 @@ title: Main
 
 
 
-Central East Europe Research group
----------------------------
-
 ![](/images/logo200.png)
 
 
