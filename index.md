@@ -12,7 +12,7 @@ title: Main
 Latest in the blog
 -------------------------------
 
-Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
+RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
 
 <div id="posts">
