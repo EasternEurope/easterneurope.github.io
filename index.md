@@ -3,10 +3,9 @@ layout: default
 title: Main
 ---
 
+</br>
 
-
-![](/images/logo200.png)
-
+![](/images/logo200shadow.png)
 
 ----
 
