@@ -26,3 +26,4 @@ RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
         {{ post.excerpt }}
     {% endfor %}
 </div>
+
