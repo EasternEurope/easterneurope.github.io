@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Eastern European Research home page</title>
-		<description>Something here</description>
+		<description>Eastern Europe Research is part of the Aleksanteri Institute, Finnish Centre for Russian and Eastern European Studies, affiliated with the University of Helsinki</description>
 		<link></link>
 		<atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml" />
 		
