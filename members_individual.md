@@ -9,25 +9,14 @@ title: Individual Scholars
 Individual Scholars
 ===================================
 
-### Katalin Miklossy
 
+### Dragana Cvetanovic
 
-<img class="img-scholar" src="http://www.helsinki.fi/aleksanteri/images/faces/miklossy_katalin.jpg"/>
+<img class="img-scholar" src="images/scholars/dragana100.JPG"/>
 
+Dragana Cvetanovic is a PhD Candidate at the Aleksanteri Institute. She is working on her theses on Serbian and Finnish rap-lyrics and identities. Her main fields of research are sociolinguistic and discourse analysis, but her academic interests concern even area studies of the Western Balkans (especially Serbia, Croatia and Bosnia and Hercegovina), recent history as well as contemporary political and social transformations of the region and popular culture studies. Her latest article examines syncronicity of history seen through the Serbian popular culture texts. 
 
-Dr Katalin Miklossy is Adjunct Professor (Docent) and Senior Researcher and at the Aleksanteri Institute. She is focusing on contemporary political history of East Central Europe with special interest in entrepreneurship, competition and East-West interaction. Miklossy has recently led the international research project “Competition in Socialist Society”. Her current works examine the varieties of socialism and post-communist hybrid systems. She is also a scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. Miklossy was elected as the founding member of the Teachers’ Academy at the University of Helsinki as recognition of excellence in teaching and pedagogical scholarship.
-
-**Keywords**: *political development, nationalism, democratisation, market behaviour*
-
-
-### Brendan Humphreys
-
-<img class="img-scholar" src="images/scholars/brendan100.jpg"/>
-
-
-Dr. Brendan Humphreys holds a PhD in Social Sciences (political history). His minor degree was in anthropology, and he brings a very broad social scientific perspective to his research. His research interests include; Balkan history, New Cold War history, international diplomacy and conflict escalation, myth construction, hagiography and civic religion, the politics of paranoia, the sociology of violence, and the dynamics of atrocity images and policy. He has lectured extensively on the history, politics and cultures of the Balkans. 
-
-**Keywords:** *Myth, conflict, exceptionalism, victimhood* 
+**Keywords**: *Western Balkans, popular culture, language, literature, recent and contemporary history, rap, hip hop*
 
 
 ### Emma Hakala
@@ -40,21 +29,15 @@ Emma Hakala is a doctoral candidate working on a dissertation concerning the sec
 **Keywords:** *Western Balkans, environmental security, post-conflict cooperation, international organizations*
 
 
-### Mila Oiva
+### Brendan Humphreys
+
+<img class="img-scholar" src="images/scholars/brendan100.jpg"/>
 
 
-<img class="img-scholar" src="http://www.helsinki.fi/aleksanteri/images/faces/mila_oiva.jpg"/>
+Dr. Brendan Humphreys holds a PhD in Social Sciences (political history). His minor degree was in anthropology, and he brings a very broad social scientific perspective to his research. His research interests include; Balkan history, New Cold War history, international diplomacy and conflict escalation, myth construction, hagiography and civic religion, the politics of paranoia, the sociology of violence, and the dynamics of atrocity images and policy. He has lectured extensively on the history, politics and cultures of the Balkans. 
 
-MA Mila Oiva is researcher at the University of Turku (Cultural History) and Aleksanteri Institute. She focuses on cultural history of the socialist era in Poland and in the Soviet Union. The topic of her PhD research is marketing of Polish clothes in the Soviet Union after the World War II and opportunities and restrictions to economic activities of intermediate level organizations in socialist setting. She is also interested in digital humanities and especially on usage of digital methods in historical research. Oiva is scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. She is founder of KHdigilab at the Cultural History Unit, and member of DigiCoffee at the Aleksanteri Institute.  
+**Keywords:** *Myth, conflict, exceptionalism, victimhood* 
 
-**Keywords**: *Poland, action space, planning economy, consumer culture, marketing, clothing industry, digital humanities*
-
-### Jouko Nikula
-
-<img class="img-scholar" src="images/scholars/jouko100.jpg"/>
-
-
-Senior Researcher Ph.D. Jouko Nikula has specialized in the transformation of class structure and the development of middle classes in post-socialist societies, especially the formation of class of private entrepreneurs. He has co-authored books on changing class structure in Russia and his latest book “Innovations and Entrepreneurs in Socialist and Post-Socialist Societies” (together with Ivan Tchkalov) was released in 2013 by the Cambridge Scholars Publishing. Currently his interests concern the role of trade-unions in post-socialist (industrial) work organization.
 
 
 ### Sigrid Kaasik-Krogerus
@@ -65,11 +48,38 @@ Sigrid Kaasik-Krogerus finishes her PhD thesis at the Aleksanteri institute, Uni
 
 **Keywords**: *national identity, Estonia, European Union, media studies, discourse analysis*
 
-### Dragana Cvetanovic
+### Markus Kainu
 
-<img class="img-scholar" src="images/scholars/dragana100.JPG"/>
+<img class="img-scholar" src="images/scholars/markus100.jpg"/>
 
-Dragana Cvetanovic is a PhD Candidate at the Aleksanteri Institute. She is working on her theses on Serbian and Finnish rap-lyrics and identities. Her main fields of research are sociolinguistic and discourse analysis, but her academic interests concern even area studies of the Western Balkans (especially Serbia, Croatia and Bosnia and Hercegovina), recent history as well as contemporary political and social transformations of the region and popular culture studies. Her latest article examines syncronicity of history seen through the Serbian popular culture texts. 
+Markus Kainu is a PhD Candidate at the Aleksanteri Institute. He is quantitatively orientated social scientist specialized in studying poverty and inequalities in post-socialist space from comparative perspective, and in open source research software carpentry. In particular, his research contributes to the discussion on post-socialist welfare regime, multidimensional poverty and spatial dimension of poverty and inequality in post-socialist transition. In addition to Eastern Europe, he also works on same issues on Russia. See website at: <http://markuskainu.fi/> for more information.
 
-**Keywords**: *Western Balkans, popular culture, language, literature, recent and contemporary history, rap, hip hop*
+**Keywords**: *poverty, inequality, social policy, quantitative analysis, comparative research, open source research software*
 
+
+### Katalin Miklossy
+
+
+<img class="img-scholar" src="http://www.helsinki.fi/aleksanteri/images/faces/miklossy_katalin.jpg"/>
+
+
+Dr Katalin Miklossy is Adjunct Professor (Docent) and Senior Researcher and at the Aleksanteri Institute. She is focusing on contemporary political history of East Central Europe with special interest in entrepreneurship, competition and East-West interaction. Miklossy has recently led the international research project “Competition in Socialist Society”. Her current works examine the varieties of socialism and post-communist hybrid systems. She is also a scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. Miklossy was elected as the founding member of the Teachers’ Academy at the University of Helsinki as recognition of excellence in teaching and pedagogical scholarship.
+
+**Keywords**: *political development, nationalism, democratisation, market behaviour*
+
+
+### Jouko Nikula
+
+<img class="img-scholar" src="images/scholars/jouko100.jpg"/>
+
+
+Senior Researcher Ph.D. Jouko Nikula has specialized in the transformation of class structure and the development of middle classes in post-socialist societies, especially the formation of class of private entrepreneurs. He has co-authored books on changing class structure in Russia and his latest book “Innovations and Entrepreneurs in Socialist and Post-Socialist Societies” (together with Ivan Tchkalov) was released in 2013 by the Cambridge Scholars Publishing. Currently his interests concern the role of trade-unions in post-socialist (industrial) work organization.
+
+### Mila Oiva
+
+
+<img class="img-scholar" src="http://www.helsinki.fi/aleksanteri/images/faces/mila_oiva.jpg"/>
+
+MA Mila Oiva is researcher at the University of Turku (Cultural History) and Aleksanteri Institute. She focuses on cultural history of the socialist era in Poland and in the Soviet Union. The topic of her PhD research is marketing of Polish clothes in the Soviet Union after the World War II and opportunities and restrictions to economic activities of intermediate level organizations in socialist setting. She is also interested in digital humanities and especially on usage of digital methods in historical research. Oiva is scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. She is founder of KHdigilab at the Cultural History Unit, and member of DigiCoffee at the Aleksanteri Institute.  
+
+**Keywords**: *Poland, action space, planning economy, consumer culture, marketing, clothing industry, digital humanities*
