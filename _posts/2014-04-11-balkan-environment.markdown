@@ -36,9 +36,6 @@ One of the main challenges to follow will be the general election in October. Th
 
 The protesters may thus be in for disappointments. On the other hand, they are likely to be well aware of this as they by and large know what to expect from their politicians. It remains to be seen whether the political elite will be able to continue to thoroughly ignore the voice of their own population, but based on what has happened so far this seems fully possible. The other question is whether anything can persuade the international community to break its silence over Bosnia and Herzegovina. So far, though, any little debate that there has been has moved at the level of High Representatives and international organizations – in other words, far removed from the realities of the ordinary population. Yet it looks disturbingly obvious that the majority of the country’s problems are ones that need to be solved at the local level. For its part, the protest movement has sent a clear signal that there now is a force at the grassroots that is willing and able to work for a change. Unfortunately, it looks as if all the potential partners are all doing their best to not to hear. 
 
-****
-
-**Emma Hakala**
 
 
 
