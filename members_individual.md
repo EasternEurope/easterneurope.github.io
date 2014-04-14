@@ -64,3 +64,12 @@ Senior Researcher Ph.D. Jouko Nikula has specialized in the transformation of cl
 Sigrid Kaasik-Krogerus finishes her PhD thesis at the Aleksanteri institute, University of Helsinki where she works as a researcher. In her studies Kaasik-Krogerus has focused on national identity, Estonia and European Union. As a media researcher she is also familiar with the qualitative and quantitative media analysis. On the basis of the results of her research, Kaasik-Krogerus has also taught several courses in Helsinki, Tallinn and Tartu Universities dealing with the national identity, media, Estonian society and/or European Union.
 
 **Keywords**: *national identity, Estonia, European Union, media studies, discourse analysis*
+
+### Dragana Cvetanovic
+
+<img class="img-scholar" src="images/scholars/dragana100.JPG"/>
+
+Dragana Cvetanovic is a PhD Candidate at the Aleksanteri Institute. She is working on her theses on Serbian and Finnish rap-lyrics and identities. Her main fields of research are sociolinguistic and discourse analysis, but her academic interests concern even area studies of the Western Balkans (especially Serbia, Croatia and Bosnia and Hercegovina), recent history as well as contemporary political and social transformations of the region and popular culture studies. Her latest article examines syncronicity of history seen through the Serbian popular culture texts. 
+
+**Keywords**: *Western Balkans, popular culture, language, literature, recent and contemporary history, rap, hip hop*
+
