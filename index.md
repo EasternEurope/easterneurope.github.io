@@ -15,16 +15,14 @@ Latest in the blog
 RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
 
-<div id="posts">
+<div class="posts">
     {% for post in site.posts offset: 0 limit: 3 %}
-        <small style="color: #999;">{{ post.date | date: "%b %d, %Y" }}</small> 
-        <a href="{{ post.url }}">{{ post.title }}</a>
-
+    {% assign author = site.authors[post.author] %}
+    <div class="meta">
+            <small style="color: #999;">{{ post.date | date: "%b %d, %Y" }}</small> 
+            <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+            by <strong>{{ author.display_name }}</strong>
+        </div>
         {{ post.excerpt }}
-
-        <br />
-        {% if post.summary %}
-            <small>{{ post.summary }}</small>
-        {% endif %}
     {% endfor %}
-    </div>
+</div>

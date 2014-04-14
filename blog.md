@@ -3,20 +3,19 @@ layout: default
 title: Blog
 ---
 
-Blog
+Blog posts
 ========================================
 
-<p>Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
-                    <i class="fa fa-rss-square"></i></a></p>
-
-<div id="home">
-  <h2>Posts</h2>
-  <ul class="posts">
+<div class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></br>{{ post.excerpt }}
-      </li>
+    {% assign author = site.authors[post.author] %}
+    <div class="meta">
+            <small style="color: #999;">{{ post.date | date: "%b %d, %Y" }}</small> 
+            <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+            by <strong>{{ author.display_name }}</strong>
+        </div>
+        {{ post.excerpt }}
     {% endfor %}
-  </ul>
 </div>
 
 <div style="margin: 15px 0; padding-top: 5px;">
@@ -24,3 +23,6 @@ Blog
     <a href="/blog_archive.html" title="an archive of all posts">&larr; More posts</a>
 </small>
 </div>
+
+Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
+                    <i class="fa fa-rss-square"></i></a>

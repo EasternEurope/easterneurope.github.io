@@ -2,11 +2,12 @@
 layout: post
 title:  "A Change at Last in Bosnia – Or More of the Same?"
 date:   2014-04-11 10:00:00
-author: Firstna Sirname
+author: emma
 categories: balkan
 ---
 
 *Protest movement in Bosnia and Herzegovina raises some important questions for the political elite and international community*
+
 
 On 5 February 2014, the center of the Bosnian city of Tuzla turned into a chaotic scene as about 3000 people took to the streets in protest to the unemployment and poverty that they blamed on the inefficiency of the political leadership. The protestors barricaded streets and surrounded governmental buildings, throwing rocks and eggs at them, while the police used tear gas to disperse the crowd. The protests calmed as the new day dawned, but left behind damaged buildings, about 18 people injured, and allegations of excessive use of police violence.  
 
