@@ -19,6 +19,9 @@ RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
     {% for post in site.posts offset: 0 limit: 3 %}
         <small style="color: #999;">{{ post.date | date: "%b %d, %Y" }}</small> 
         <a href="{{ post.url }}">{{ post.title }}</a>
+
+        {{ post.excerpt }}
+
         <br />
         {% if post.summary %}
             <small>{{ post.summary }}</small>
