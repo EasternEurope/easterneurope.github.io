@@ -59,8 +59,7 @@ Markus Kainu is a PhD Candidate at the Aleksanteri Institute. He is quantitative
 
 ### Katalin Miklossy
 
-
-<img class="img-scholar" src="http://www.helsinki.fi/aleksanteri/images/faces/miklossy_katalin.jpg"/>
+<img class="img-scholar" src="images/scholars/katalin100.jpg"/>
 
 
 Dr Katalin Miklossy is Adjunct Professor (Docent) and Senior Researcher and at the Aleksanteri Institute. She is focusing on contemporary political history of East Central Europe with special interest in entrepreneurship, competition and East-West interaction. Miklossy has recently led the international research project “Competition in Socialist Society”. Her current works examine the varieties of socialism and post-communist hybrid systems. She is also a scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. Miklossy was elected as the founding member of the Teachers’ Academy at the University of Helsinki as recognition of excellence in teaching and pedagogical scholarship.
@@ -83,3 +82,12 @@ Senior Researcher Ph.D. Jouko Nikula has specialized in the transformation of cl
 MA Mila Oiva is researcher at the University of Turku (Cultural History) and Aleksanteri Institute. She focuses on cultural history of the socialist era in Poland and in the Soviet Union. The topic of her PhD research is marketing of Polish clothes in the Soviet Union after the World War II and opportunities and restrictions to economic activities of intermediate level organizations in socialist setting. She is also interested in digital humanities and especially on usage of digital methods in historical research. Oiva is scholar in the Finnish Centre of Excellence in Russian Studies on the Choices of Russian Modernisation. She is founder of KHdigilab at the Cultural History Unit, and member of DigiCoffee at the Aleksanteri Institute.  
 
 **Keywords**: *Poland, action space, planning economy, consumer culture, marketing, clothing industry, digital humanities*
+
+### Heini Puurunen
+
+<img class="img-scholar" src="images/scholars/heini100.jpg"/>
+
+Heini Puurunen (MA) is a PhD candidate at the Department of World Cultures and at the Aleksanteri Institute. She works currently in an EU research project “Rage – Hate Speech and Populist Othering in Europe”. Puurunen has been engaged in various Russian and Eastern Europe related projects concerning issues of welfare, transition, migration and gender. Regionally she is specialized in the Slavic Balkans, thematically in Roma minorities. Puurunen’s doctoral thesis examines the questions of minorities, boundaries and belonging in Bulgarian, Serbian and Macedonian border region.
+
+
+**Keywords**: *Balkans, borders, Slavonic languages, minorities, Roma.*
