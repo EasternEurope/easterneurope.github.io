@@ -22,4 +22,4 @@ Profile of Expertise
 | Jouko Nilkula | Welfare, company paternalism, entrepreneurship | Urban agriculture, global trends in the countryside  | Russia, Baltic states, Bulgaria | 
 | Mila Oiva | Action space in state socialism, consumer culture, expert networks, identity | Cultural history, socialist marketing and trade, Polish-Russian relations, digital research methods | Poland | 
 | Riikka Palonkorpi | Cold War East-West collaboration (small actors) | Western reception of Eastern scientific-cultural innovations, history of emotions (in protest movements) | Czech | Republic | 
-| Heini Puurnen | Borders, boundaries, minorities, identity | Border problems in the Southern Balkan | Bulgaria, Serbia, Macedonia |
+| Heini Puurunen | Borders, boundaries, minorities, identity | Border problems in the Southern Balkan | Bulgaria, Serbia, Macedonia |
