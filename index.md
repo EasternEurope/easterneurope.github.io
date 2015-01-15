@@ -15,6 +15,7 @@ Latest in the blog
 RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
 
+
 <div class="posts">
     {% for post in site.posts offset: 0 limit: 3 %}
     {% assign author = site.authors[post.author] %}
@@ -26,4 +27,3 @@ RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
         {{ post.excerpt }}
     {% endfor %}
 </div>
-

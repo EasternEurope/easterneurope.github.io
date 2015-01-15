@@ -14,54 +14,18 @@ Developing through web
 You can make all edits through github-web interface. Once you commit the changes they will be displayed on the page immediately.
 
 
-Developing through locally
--------------------------------
-
-This is the recommended way for developing as you can preview the site locally before publishing it.
-
-
 Blogging
 -------------------------------
 
-1. create new file with name `yyyy-mm-dd-some-name-here.markdown` including YAML-block
+1. create new file with name `yyyy-mm-dd-some-name-here.markdown` including YAML-block in `_posts/` -folder. Easiest to copy-paste an existing blog post into new file and edit that
 2. write text using [markdown-syntax]().
 3. add images under `images`-folder and other files under `files`-folder.
 
 
-License
--------------------------------
+----
+----
 
-
-### The code
-
-Made by [Thomas Park](http://thomaspark.me) Contact him at <a href="mailto:hello@thomaspark.me">hello@thomaspark.me</a>.
-
-Code released under the [MIT License](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE)
-
-Based on [Bootstrap](http://getbootstrap.com). Icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/). 
-
-Web fonts from [Google](http://www.google.com/webfonts).
-
-### Content
-
-Content on folder `_posts` and files
-
-- `events_impact.md`
-- `events_media.md`
-- `events_seminars.md`
-- `home_blog.md`
-- `home_blog_archive.md`
-- `home_eastern_europe.md`
-- `home_expertise.md`
-- `index.md`
-- `members_collaboration.md`
-- `members_individual.md`
-- `research_courses.md`
-- `research_projects.md`
-- `research_publications.md`
-
-are copyright Eastern Europe Research Group
-
+# Some random instructions, not for maintainin EERG-website
 
 ## The easy way
 
@@ -107,3 +71,39 @@ Once your are happy with how it looks like:
 2. add new files to git using `git add --all`
 3. stage and commit the changes with `git commit -a -m "message comes here"`
 4. push the committed change `git push`
+
+
+License
+-------------------------------
+
+
+### The code
+
+Made by [Thomas Park](http://thomaspark.me) Contact him at <a href="mailto:hello@thomaspark.me">hello@thomaspark.me</a>.
+
+Code released under the [MIT License](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE)
+
+Based on [Bootstrap](http://getbootstrap.com). Icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/). 
+
+Web fonts from [Google](http://www.google.com/webfonts).
+
+
+### Content
+
+Content on folder `_posts` and files
+
+- `events_impact.md`
+- `events_media.md`
+- `events_seminars.md`
+- `home_blog.md`
+- `home_blog_archive.md`
+- `home_eastern_europe.md`
+- `home_expertise.md`
+- `index.md`
+- `members_collaboration.md`
+- `members_individual.md`
+- `research_courses.md`
+- `research_projects.md`
+- `research_publications.md`
+
+are copyright Eastern Europe Research Group
