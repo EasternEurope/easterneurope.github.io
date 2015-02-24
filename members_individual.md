@@ -83,6 +83,14 @@ MA Mila Oiva is researcher at the University of Turku (Cultural History) and Ale
 
 **Keywords**: *Poland, action space, planning economy, consumer culture, marketing, clothing industry, digital humanities*
 
+### Mikko Palonkorpi
+
+<img class="img-scholar" src="images/scholars/mikko100.jpg"/>
+
+Mikko Palonkorpi is a researcher at the Aleksanteri Institute and he is currently writing his doctoral dissertation on energy security issues in the South Caucasus for the Department of Political and Economic Studies, University of Helsinki. His main research interests are international relations theory as it pertains to aspects of energy security. He has specialized on the energy, foreign, security and domestic politics of the South Caucasus region. He has carried out extensive field research trips to the Caucasus region and published several articles on Caucasus related topics in papers, journals, reports and books.
+
+**Keywords**: *securitization, energy security, South Caucasus, protracted conflicts*
+
 ### Heini Puurunen
 
 <img class="img-scholar" src="images/scholars/heini100.jpg"/>

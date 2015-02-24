@@ -3,7 +3,7 @@ description: "Eastern Europe Research is part of the Aleksanteri Institute, Finn
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments: false
+highlighter: false
 
 
 authors:
@@ -11,3 +11,5 @@ authors:
     display_name: Emma Hakala
   kati:
     display_name: Katalin Miklossy
+  mikko:
+    display_name: Mikko Palonkorpi

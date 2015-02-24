@@ -18,6 +18,8 @@ Blog posts
     {% endfor %}
 </div>
 
+
+
 <div style="margin: 15px 0; padding-top: 5px;">
 <small>
     <a href="/blog_archive.html" title="an archive of all posts">&larr; More posts</a>
@@ -26,3 +28,4 @@ Blog posts
 
 Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
+
