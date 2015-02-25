@@ -8,6 +8,12 @@ categories: armenia
 
 *The publication is a joint project of the Caucasus Institute (Armenia) and the Aleksanteri Institute, University of Helsinki. It has been supported by the Ministry for Foreign Affairs of Finland.*
 
+![](/images/misc/ARMENIA_REPORT_COVER_350.jpg)
+
+[Download report](http://www.helsinki.fi/aleksanteri/english/publications/files/armenias_politics2013.pdf)
+
+****
+
 **Caucasus Institute and Aleksanteri Institute, 2013, 92 p.**
 
 *Edited by Mikko Palonkorpi and Alexander Iskandaryan*
@@ -27,7 +33,7 @@ categories: armenia
 - &copy; 2013 by the Aleksanteri Institute
 - &copy; 2013 by the MFA of Finland
 
-[Download report](http://www.helsinki.fi/aleksanteri/english/publications/files/armenias_politics2013.pdf)
+
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
